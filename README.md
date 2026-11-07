@@ -328,8 +328,8 @@ scikit-learn
 |---|---|---|
 | Raunit Sinha | 241001001252 | Data exploration and cleaning |
 | Anubhab Pal | 241001001194 | Baseline model, scaling and K analysis |
-| Sk Sohel Hossain | 241001001206 | Hyperparameter tuning, PCA, augmentation and overfitting analysis |
-| Pushpesh Kant Ojha | 241001001233 | Documentation, GitHub repository and ppt |
+| Sk Sohel Hossain | 241001001206 | Hyperparameter tuning, PCA, augmentation, overfitting analysis and GitHub repository |
+| Pushpesh Kant Ojha | 241001001233 | Documentation and ppt |
 
 ---
 

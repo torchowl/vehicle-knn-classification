@@ -317,7 +317,7 @@ scikit-learn
 │   ├── error_analysis.png
 │   ├── confusion_matrix.png
 │   └── model_comparison.png
-└── vehicle_knn_ppt           # screen recording of the execution
+└── vehicle_knn_ppt.pptx      # screen recording of the execution
 ```
 
 ---

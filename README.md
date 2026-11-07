@@ -335,7 +335,7 @@ scikit-learn
 
 ## 13. References
 
-1. Dataset: Vehicle Silhouettes, UCI Machine Learning Repository. `https://www.kaggle.com/datasets/patriciabrezeanu/statlog-vehicle-silhouettes`
+1. Dataset: Vehicle Silhouettes, UCI Machine Learning Repository. https://www.kaggle.com/datasets/patriciabrezeanu/statlog-vehicle-silhouettes
 2. Pedregosa et al., "Scikit-learn: Machine Learning in Python", *Journal of Machine Learning Research*, 12, 2825-2830, 2011.
 3. scikit-learn documentation: `KNeighborsClassifier`, `GridSearchCV`, `Pipeline`, `PCA`. https://scikit-learn.org/stable/
 4. Cover, T. and Hart, P., "Nearest neighbor pattern classification", *IEEE Transactions on Information Theory*, 13(1), 21-27, 1967.
